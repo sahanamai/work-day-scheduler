@@ -10,7 +10,7 @@
 *  moment().
 * i-icon (fas fa save).For save button from w3schools.
 
-## online links refered
+## Online links refered
 * https://www.w3schools.com/
 * udemy course(udemy.com).
 * https://momentjs.com/
